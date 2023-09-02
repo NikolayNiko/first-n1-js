@@ -8,6 +8,8 @@
 let a = 17;
 let b = 3;
 
+
+
 let summ = a + b;
 let minus = a - b;
 let multip = a * b;
