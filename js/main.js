@@ -20,6 +20,7 @@ console.log(minus);
 console.log(multip);
 console.log(division);
 console.log(exponentiation);
-console.log(Math.floor(a/b)); 
+console.log(Math.floor(a/b));
+console.log(Math.ceil(a/b));
 
 // its my first solution to js from step
