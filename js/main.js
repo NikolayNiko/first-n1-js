@@ -21,6 +21,7 @@ console.log(multip);
 console.log(division);
 console.log(exponentiation);
 console.log(Math.floor(a/b));
-console.log(Math.ceil(a/b));
+console.log(Math.ceil(a/b)); // округление в большую сторону - єто деление без остатка или?
+
 
 // its my first solution to js from step
