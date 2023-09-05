@@ -108,7 +108,7 @@ if (variantAnswer == 1) {
 if (variantAnswer == 2) {
     console.log('Ваш баланс', balance);
     let popovnennja = prompt('На яку суму бажаєте поповнити?');
-    balance = balance + popovnennja;
+    balance = balance + Number(popovnennja);
     console.log('Ваш баланс', balance);
 };
 
